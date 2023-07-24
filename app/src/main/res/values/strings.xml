@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VegasFirebase</string>
+    <string name="theme">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="tab_name_home">Home</string>
+    <string name="tab_name_token">Token</string>
+    <string name="tab_name_notification">Notification</string>
+    <string name="tab_name_settings">Settings</string>
+    <string name="ask_confirmation_to_exit_from_app">Ask confirmation to exit from app</string>
+    <string name="keep_screen_on">Keep Screen On</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="do_you_really_want_to_close_the_application">Do you really want to close the application?</string>
+    <string name="permissions">Permissions</string>
+    <string name="all_permissions_granted">All permissions granted</string>
+    <string name="get_token">Get</string>
+    <string name="clear">Clear</string>
+    <string name="send">Send</string>
+    <string name="push_notify_prefs">Push notify prefs</string>
+</resources>
